@@ -1,2 +1,13 @@
 # BRISTRO-ECOMMERCE-DASHBOARD
 The art and practice of visualizing data is becoming ever more important in bridging the human-computer gap to mediate analytical insight in a meaningful way. Biristo E-commerce company is a global online retailer, selling a wide range of products to customers worldwide.
+As we dive into this visuals, the company has requested for an analysis of their sales performance from 2018 to 2023 to gain more insights.
+#TotalCustomers -1,632 #TotalOrders received- 1,722 #TotalquatitySold- 5,329 #TotalSales-N620.21k #TotalProfit - N270,270 #TotalProfitMargin- 43.58%.It was also observed that Bristo had highest sales in year 2020 and the three-bestselling products were soccer, apparel and electronics,Soccer stood out was the overall bestselling product with over N180k in sales and 108k in profit.
+Recommendations
+My recommendations are based on the dataset provided by the company for analysis:
+• The company must strive to improve the sales channels either #Online and #Instore.There should be a strategic way of driving customers to the store in other to reach larger audience especially to those who are not internet savvy, this way its easily accessible as well to continue to capture customers preference and also create more awareness and development toward a more robust web presence.
+• It is imperative for Bistro Ecommerce to invite various reward system for the least performing products to be profit driven such as referral bonus, loyalty incentives etc. to consistently win their loyalty and patronage.
+• Expanding Market share, Looking at the total customers of 1,632, we can see areas of opportunities in that area, thus we need to invest in brand development, such as adverts and mouth watering incentives.
+• Carve a Niche: It is important that Bristo as a company analyze their product categories so as to know which product is their golden goose or otherwise. This way having a strategic product to boost the company sales performance.
+• Recognition of exceptional clients such as Smith being the top customer of the year award and reward him to serve as a driving force amongst customers . This will help drive more sales as clients would strive to beat Smith's number. They could also be offered more exclusive deals or discounts for top clients/customers.
+• Hence, there is need for Bristo to look into #MarketingCampaigns #Branddevelopment #CustomerLoyalityPrograms #ProductReview
+These recommendations are vital to the overall productivity of Bistro E commerce Company.![Bistro project](https://github.com/OlaitanOladimeji/BRISTRO-ECOMMERCE-DASHBOARD/assets/141023425/357df146-b612-472d-a3b8-7dccb7fff10b)
